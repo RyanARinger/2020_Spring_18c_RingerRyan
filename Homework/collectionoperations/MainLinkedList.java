@@ -1,4 +1,3 @@
-
 package collectionoperations;
 
 import java.util.Scanner;

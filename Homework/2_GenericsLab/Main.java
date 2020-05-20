@@ -20,7 +20,8 @@ public class Main {
         // Input or initialize values Here
         
         // Process/Calculations Here
-        
+        // 420 get bitches
+		
         // method calls on empty list
         System.out.println("Empty list operations:");
         System.out.println(list.search(new Node(8, null, null)));
